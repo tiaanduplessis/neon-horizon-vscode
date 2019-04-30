@@ -1,0 +1,34 @@
+.mtk1 { 
+    color: #bbb; 
+}
+
+.mtk2 { color: #1c1e26; }
+.mtk3 { 
+    color: #e95678e6;
+    text-shadow: 0 0 2px #100c0f, 0 0 5px #e9567829, 0 0 10px #fff3;
+}
+.mtk4 { color: rgba(213, 216, 218, 0.4); }
+.mtk5 { color: rgba(240, 148, 131, 0.9); }
+.mtk6 { 
+    color: rgba(37, 176, 188, 0.9); 
+    text-shadow: 0 0 2px #001716, 0 0 3px #03edf975, 0 0 5px #03edf975, 0 0 8px #03edf975;
+}
+.mtk7 { 
+    color: rgba(250, 194, 154, 0.9); 
+    text-shadow: 0 0 2px #000, 0 0 10px #fac29ab8, 0 0 5px #fac29ab8, 0 0 25px #fac29ab8;
+}
+.mtk8 { 
+    color: rgba(250, 183, 149, 0.9);
+    text-shadow: 0 0 2px #100c0f, 0 0 10px #fab795e6, 0 0 35px #21272475;
+}
+.mtk9 { 
+    color: rgba(184, 119, 219, 0.9); 
+    text-shadow: 0 0 2px #000, 0 0 5px #b877dba6, 0 0 5px #b877dbc7;
+}
+.mtk10 { color: #bbbbbb; }
+.mtk11 { color: rgba(187, 187, 187, 0.8); }
+.mtk12 { color: rgba(233, 86, 120, 0.65); }
+.mtk13 { color: #b267e6; }
+.mtk14 { color: #f44747; }
+.mtk15 { color: #6796e6; }
+.mtk16 { color: #cd9731; }
